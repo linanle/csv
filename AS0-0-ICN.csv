@@ -1,5 +1,5 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-152.69.224.220,443,443,true,ICN,Asia Pacific,KR,Seoul,105,19.37
+152.69.224.220,443,443,true,ICN-1,Asia Pacific,KR,Seoul,105,19.37
 59.3.3.161,443,443,true,ICN,Asia Pacific,KR,Seoul,88,16.59
 134.185.102.228,443,443,true,ICN,Asia Pacific,KR,Seoul,81,16.25
 52.141.25.42,443,443,true,ICN,Asia Pacific,KR,Seoul,96,15.33
